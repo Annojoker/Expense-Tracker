@@ -155,12 +155,11 @@ Once the setup is complete, the app will be running on your local system.
 | Feature | Screenshot |
 |---------|-----------|
 | **Contact Us** | ![Contact Us](client/src/Images/4-contact-us.png) |
-| **Copy Right** | ![Copy Right Footer](client/src/Images/15-copy-right.png) |
 
 ---
 
 ## 🛠 Made By  
-- [@Prakashsaw](https://github.com/Prakashsaw)  
+- [@Prethiv](https://github.com/Annojoker)  
 
 ---
 
