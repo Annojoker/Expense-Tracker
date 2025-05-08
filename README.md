@@ -2,12 +2,7 @@
 
 ## 🌐 GitHub Repo  
 ```bash
-https://github.com/Prakashsaw/Expense-Management-System
-```
-
-## 🚀 Live Demo  
-```bash
-https://expense-management-system-prakash.netlify.app/
+https://github.com/Annojoker/Expense-Management-System
 ```
 
 ## 📌 Description  
